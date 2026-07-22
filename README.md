@@ -1,3 +1,0 @@
-# git
-charu
-sambyal
