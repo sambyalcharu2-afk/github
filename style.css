@@ -1,0 +1,42 @@
+/* Step 3 */
+body{
+    background-color: lightgray;
+}
+
+/* Step 5 */
+.head{
+    color: darkblue;
+}
+
+/* Step 6 */
+#bglime{
+    background-color: lime;
+}
+
+/* Step 7 */
+#bglime{
+    color: red;
+}
+
+/* Step 8 */
+p{
+    color: white;
+}
+
+/* Step 9 */
+#para{
+    color: green;
+}
+
+/* Step 10 */
+#para span{
+    color: black;
+    font-size: 25px;
+}
+
+/* Step 11 */
+a{
+    color: red;
+    font-size: 20px;
+    text-decoration: none;
+}
