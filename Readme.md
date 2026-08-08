@@ -1,44 +1,64 @@
-# Task 3 - CSS Units, Box Model, Fonts
-
-## Student Details
-**Name:** Charu Sambyal
+# Laundry Services Hero Section
 
 ## Project Description
-This project demonstrates the use of HTML and CSS concepts including CSS Units, Box Model, and Fonts.
 
-## Files Included
-- index.html
-- style.css
-- README.md
+This project is a simple Laundry Services Hero Section created using HTML and CSS.
 
-## Features
-- HTML document with external CSS
-- Image displayed inside a div
-- Button for user interaction
-- Gradient button background
-- Uses Viewport units (vw, vh)
-- Uses Box Sizing
-- Proper spacing from all sides
-- No Flexbox used
-- No relative or absolute positioning
-- Page fits the screen without scrolling
+The webpage contains:
+
+- Navigation Bar
+- Hero Section
+- Laundry Image
+- Book a Service Button
+
+The design is responsive and uses viewport height (100vh) so the hero section fits the screen.
+
+---
 
 ## Technologies Used
+
 - HTML5
 - CSS3
 
-## How to Run
-1. Download or clone the project.
-2. Place `index.html` and `style.css` in the same folder.
-3. If using a local image, place the image file in the same folder.
-4. Open `index.html` in any web browser.
+---
+
+## Features
+
+- Navigation Bar
+- Logo on the left
+- Home, Services, About Us and Contact Us links
+- User name on the right
+- Hero section with two divisions
+- Book a Service Today button
+- Laundry service image
+- Uses `display: inline-block`
+- Does **not** use Flexbox
+- Hero section uses `100vh`
+
+---
 
 ## Folder Structure
 
-Task3/
-│── index.html
-│── style.css
+```
+Laundry-Hero/
+│
+├── index.html
+├── style.css
+├── images/
+│     └── laundry.jpg
 └── README.md
+```
+
+---
+
+## How to Run
+
+1. Download the project.
+2. Place a laundry image inside the `images` folder as `laundry.jpg`.
+3. Open `index.html` in any web browser.
+
+---
 
 ## Author
-**Charu Sambyal**
+
+Charu Sambyal
